@@ -3,5 +3,5 @@ package com.example.lab4;
 public abstract class Shape {
     int x;
     int y;
-	string color="this is main color";
+	String color="this is leyla color";
 }
